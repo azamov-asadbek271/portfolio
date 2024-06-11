@@ -16,7 +16,7 @@ function Project() {
       <h2 className="font-bold text-2xl"> Loyhalarim</h2>
       <div className="max-w-6xl w-full mx-auto mt-10  items-center flex-col grid-cols-3 grid ">
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img className="w-full rounded" src="./assets/developer.png" alt="" />
+          {/* <img className="w-full rounded" src="./assets/developer.png" alt="" /> */}
           <h2 className="text-xl font-bold mt-5">Developer</h2>
           <div className="flex items-center gap-1">
             <p>Next.Js</p> <RiNextjsFill className="text-lg" />
@@ -38,7 +38,7 @@ function Project() {
           </div>
         </div>
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img className="w-full rounded" src="./assets/magazin.png" alt="" />
+          {/* <img className="w-full rounded" src="./assets/magazin.png" alt="" /> */}
           <h2 className="text-xl font-bold mt-5">Magazin</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-1">
@@ -67,7 +67,7 @@ function Project() {
         </div>
         {/* config */}{" "}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img className="w-full rounded" src="./assets/config.png" alt="" />
+          {/* <img className="w-full rounded" src="./assets/config.png" alt="" /> */}
           <h2 className="text-xl font-bold mt-5">Config</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
@@ -96,7 +96,7 @@ function Project() {
         </div>
         {/* shop */}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img className="w-full rounded" src="./assets/shop.png" alt="" />
+          {/* <img className="w-full rounded" src="./assets/shop.png" alt="" /> */}
           <h2 className="text-xl font-bold mt-5">Shop</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
@@ -125,11 +125,11 @@ function Project() {
         </div>
         {/* my-kitchen */}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img
+          {/* <img
             className="w-full rounded"
             src="./assets/my-kitchen.png"
             alt=""
-          />
+          /> */}
           <h2 className="text-xl font-bold mt-5">My-Kitchen</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
@@ -158,11 +158,11 @@ function Project() {
         </div>
         {/* todo */}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img
+          {/* <img
             className="w-full rounded"
             src="./assets/todo-list-redux.png"
             alt=""
-          />
+          /> */}
           <h2 className="text-xl font-bold mt-5">Todo-List</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
@@ -187,11 +187,11 @@ function Project() {
         </div>
         {/* create user */}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img
+          {/* <img
             className="w-full rounded"
             src="./assets/creator-user.png"
             alt=""
-          />
+          /> */}
           <h2 className="text-xl font-bold mt-5">Creator User</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
@@ -216,7 +216,7 @@ function Project() {
         </div>
         {/* btirhday */}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img className="w-full rounded" src="./assets/brithday.png" alt="" />
+          {/* <img className="w-full rounded" src="./assets/brithday.png" alt="" /> */}
           <h2 className="text-xl font-bold mt-5">BrithDay</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
@@ -241,11 +241,11 @@ function Project() {
         </div>
         {/* random User */}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img
+          {/* <img
             className="w-full rounded"
             src="./assets/user-random.png"
             alt=""
-          />
+          /> */}
           <h2 className="text-xl font-bold mt-5">Random User</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
@@ -270,11 +270,11 @@ function Project() {
         </div>
         {/* Pokemon */}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img
+          {/* <img
             className="w-full rounded"
             src="./assets/render-pokemon.png"
             alt=""
-          />
+          /> */}
           <h2 className="text-xl font-bold mt-5">Random Pokemon</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
@@ -303,7 +303,7 @@ function Project() {
         </div>
         {/* taillwind figma */}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img className="w-full rounded" src="./assets/figma.png" alt="" />
+          {/* <img className="w-full rounded" src="./assets/figma.png" alt="" /> */}
           <h2 className="text-xl font-bold mt-5">Figma</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
@@ -332,7 +332,7 @@ function Project() {
         </div>
         {/* weather */}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img className="w-full rounded" src="./assets/weater.png" alt="" />
+          {/* <img className="w-full rounded" src="./assets/weater.png" alt="" /> */}
           <h2 className="text-xl font-bold mt-5">Weather</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
@@ -357,7 +357,7 @@ function Project() {
         </div>
         {/* api Job */}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img className="w-full rounded" src="./assets/api-dev.png" alt="" />
+          {/* <img className="w-full rounded" src="./assets/api-dev.png" alt="" /> */}
           <h2 className="text-xl font-bold mt-5">Api Job</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
@@ -382,7 +382,7 @@ function Project() {
         </div>
         {/* clock */}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img className="w-full rounded" src="./assets/clock.png" alt="" />
+          {/* <img className="w-full rounded" src="./assets/clock.png" alt="" /> */}
           <h2 className="text-xl font-bold mt-5">Soat</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
@@ -407,7 +407,7 @@ function Project() {
         </div>
         {/* my-team */}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img className="w-full rounded" src="./assets/my-team.png" alt="" />
+          {/* <img className="w-full rounded" src="./assets/my-team.png" alt="" /> */}
           <h2 className="text-xl font-bold mt-5">My-Team</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
@@ -432,7 +432,7 @@ function Project() {
         </div>
         {/* designo */}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img className="w-full rounded" src="./assets/designo.png" alt="" />
+          {/* <img className="w-full rounded" src="./assets/designo.png" alt="" /> */}
           <h2 className="text-xl font-bold mt-5">Designo</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
@@ -457,7 +457,7 @@ function Project() {
         </div>
         {/* coffe */}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img className="w-full rounded" src="./assets/coffe.png" alt="" />
+          {/* <img className="w-full rounded" src="./assets/coffe.png" alt="" /> */}
           <h2 className="text-xl font-bold mt-5">Coffe</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
@@ -482,7 +482,7 @@ function Project() {
         </div>
         {/* masjid */}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img className="w-full rounded" src="./assets/masjid.png" alt="" />
+          {/* <img className="w-full rounded" src="./assets/masjid.png" alt="" /> */}
           <h2 className="text-xl font-bold mt-5">Masjid</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
@@ -507,11 +507,11 @@ function Project() {
         </div>
         {/* web-design */}
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
-          <img
+          {/* <img
             className="w-full rounded"
             src="./assets/web-design.png"
             alt=""
-          />
+          /> */}
           <h2 className="text-xl font-bold mt-5">Masjid</h2>
           <div className="flex gap-2">
             <div className="flex items-center gap-2">
